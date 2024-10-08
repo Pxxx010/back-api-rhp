@@ -1,4 +1,5 @@
-# Endpoints da API do Hospital
+# Endpoints da API do Hospital 
+## (Em construção, alguns endpoint não existe)
 
 ## 1. Pacientes
 ### Criar um novo paciente
